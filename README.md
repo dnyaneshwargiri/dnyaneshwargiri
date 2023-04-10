@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**dnyaneshwargiri/dnyaneshwargiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Hi there 👋
 
-Here are some ideas to get you started:
+- ⭐ I'm a passionate Front End Enginner.
+- 🔭 I’m currently using Angular in my projects.
+- 💬 Ask me about Angular, TypeScript, CSS.
+- 📫 How to reach me: Email me at [Email](mailto:dnyaneshwargiri510@gmail.com) or [LinkedIn](https://in.linkedin.com/in/dnyaneshwargiri)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you 😊
+
+##### Dnyaneshwar's GitHub stats & Top Langs 
+
+<a href="https://github.com/dnyaneshwargiri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnyaneshwargiri&hide=issues&count_private=true&show_icons=true" />
+</a>
+
+<a href="https://github.com/dnyaneshwargiri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwargiri&layout=compact&langs_count=8" />
+</a>
