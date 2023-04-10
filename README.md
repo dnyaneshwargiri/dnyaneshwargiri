@@ -1,7 +1,7 @@
 
 #  Hi there 👋
 
-- ⭐ I'm a passionate Front End Enginner.
+- ⭐ I'm a passionate Front End Engineer.
 - 🔭 I’m currently using Angular in my projects.
 - 💬 Ask me about Angular, TypeScript, CSS.
 - 📫 How to reach me: Email me at [Email](mailto:dnyaneshwargiri510@gmail.com) or [LinkedIn](https://in.linkedin.com/in/dnyaneshwargiri)
