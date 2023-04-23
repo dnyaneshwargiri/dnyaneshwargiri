@@ -1,7 +1,7 @@
 # 💫 About Me:
 - ⭐ I'm a passionate Front End Engineer.
 - 🔭 I’m currently using Angular, TypeScript in my projects.
-- 💬 Ask me about Angular, TypeScript, CSS
+- 💬 Ask me about Angular, TypeScript, JavaScript, CSS
 - ⚡ I run YouTube channel of Angular tutorials [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brogrammers) 
 - 📫 How to reach me: Email me at [Email](mailto:dnyaneshwargiri510@gmail.com) or [LinkedIn](https://in.linkedin.com/in/dnyaneshwargiri)
 
