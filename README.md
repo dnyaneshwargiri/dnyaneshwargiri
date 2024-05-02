@@ -5,8 +5,6 @@
 - ⚡ I run YouTube channel of Angular tutorials [YouTube](https://openinapp.co/brogrammer) 
 - 📫 How to reach me: Email me at [Email](mailto:dnyaneshwargiri510@gmail.com) or [LinkedIn](https://in.linkedin.com/in/dnyaneshwargiri)
 
-Thank you 😊
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.brogrammers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyaneshwargiri) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dnyaneshwargiri510) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dnyaneshwargir) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Dnyaneshwar-Giri-3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://openinapp.co/brogrammer) 
