@@ -1,7 +1,7 @@
 # 💫 About Me:
 - ⭐ I'm a passionate Front End Engineer.
-- 🔭 I’m currently using NextJs, TypeScript in my projects.
-- 💬 Ask me about Angular, React, NextJs, TypeScript, JavaScript, CSS
+- 🔭 I’m currently using Angular, Vue, TypeScript in my projects.
+- 💬 Ask me about Angular, TypeScript, JavaScript, CSS
 - ⚡ I run YouTube channel [YouTube](https://openinapp.co/brogrammer) 
 - 📫 How to reach me: Email me at [Email](mailto:dnyaneshwargiri510@gmail.com) or [LinkedIn](https://in.linkedin.com/in/dnyaneshwargiri)
 
